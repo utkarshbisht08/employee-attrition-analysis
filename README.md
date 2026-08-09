@@ -52,7 +52,7 @@ A fictional datasets is representing an organization which needs to uncover the 
 The following analyses were conducted to identify factors associated with employee attrition.
 
 ## Dashboard
-![HR ATTRITION Dashboard](dashboard/Dashboard.png)
+![HR ATTRITION Dashboard](images/dashboard.png)
 
 ## Insights
 * Employee attrition varies, with lower satisfaction levels generally associated with higher attrition.
